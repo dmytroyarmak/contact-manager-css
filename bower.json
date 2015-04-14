@@ -1,0 +1,20 @@
+{
+  "name": "contact-manager-css",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dmytroyarmak/contact-manager-css",
+  "authors": [
+    "Dmytro Yarmak <dmytroyarmak@gmail.com>"
+  ],
+  "main": "src/contact-manager.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
